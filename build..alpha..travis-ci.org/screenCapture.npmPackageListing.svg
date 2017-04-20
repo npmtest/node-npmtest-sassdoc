@@ -1,0 +1,46 @@
+<svg height="686" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="686" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 14:16:41 +0000   105533 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 14:16:41 +0000    23653 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 14:16:41 +0000     1074 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 14:16:41 +0000     1469 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 14:16:41 +0000     3579 bytes  UPGRADE-2.0.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 14:16:41 +0000       89 bytes  bin/sassdoc</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 14:16:41 +0000     1079 bytes  dist/annotation/annotations/access.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 14:16:41 +0000     1209 bytes  dist/annotation/annotations/alias.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 14:16:41 +0000      230 bytes  dist/annotation/annotations/author.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 14:16:41 +0000      430 bytes  dist/annotation/annotations/content.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 14:16:41 +0000      266 bytes  dist/annotation/annotations/deprecated.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 14:16:41 +0000     1182 bytes  dist/annotation/annotations/example.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 14:16:41 +0000      336 bytes  dist/annotation/annotations/group.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 14:16:41 +0000      195 bytes  dist/annotation/annotations/ignore.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 14:16:41 +0000      670 bytes  dist/annotation/annotations/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 14:16:41 +0000      412 bytes  dist/annotation/annotations/link.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 14:16:41 +0000      475 bytes  dist/annotation/annotations/name.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 14:16:41 +0000      305 bytes  dist/annotation/annotations/output.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 14:16:41 +0000      962 bytes  dist/annotation/annotations/parameter.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 14:16:41 +0000      678 bytes  dist/annotation/annotations/property.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 14:16:41 +0000     5901 bytes  dist/annotation/annotations/require.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 14:16:41 +0000      750 bytes  dist/annotation/annotations/return.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 14:16:41 +0000     1713 bytes  dist/annotation/annotations/see.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 14:16:41 +0000      475 bytes  dist/annotation/annotations/since.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 14:16:41 +0000      868 bytes  dist/annotation/annotations/throw.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 14:16:41 +0000      248 bytes  dist/annotation/annotations/todo.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 14:16:41 +0000      277 bytes  dist/annotation/annotations/type.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 14:16:41 +0000     1948 bytes  dist/annotation/index.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 14:16:41 +0000     4715 bytes  dist/cli.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 14:16:41 +0000    10978 bytes  dist/environment.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 14:16:41 +0000     3296 bytes  dist/errors.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 14:16:41 +0000      807 bytes  dist/exclude.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 14:16:41 +0000     5799 bytes  dist/logger.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 14:16:41 +0000      925 bytes  dist/notifier.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 14:16:41 +0000     4616 bytes  dist/parser.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 14:16:41 +0000     1470 bytes  dist/recurse.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 14:16:41 +0000    15400 bytes  dist/sassdoc.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 14:16:41 +0000      581 bytes  dist/sorter.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 14:16:41 +0000     3197 bytes  dist/utils.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 14:16:41 +0000      440 bytes  index.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 14:16:41 +0000     2836 bytes  package.json</tspan>
+</text>
+</svg>
